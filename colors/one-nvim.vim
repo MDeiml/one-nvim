@@ -135,7 +135,7 @@ local highlight_groups = {
      NormalFloat  = normal,
      bold         = { style = 'bold'},
      ColorColumn  = { fg = none, bg = syntax_cursor },
-     Conceal      = { fg = mono_4, bg = syntax_bg },
+     Conceal      = { fg = mono_2, bg = syntax_bg },
      Cursor       = { fg = none, bg = syntax_accent },
      CursorIM     = { fg = none},
      CursorColumn = { fg = none, bg = syntax_cursor },
