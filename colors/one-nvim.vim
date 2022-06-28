@@ -670,7 +670,7 @@ LspReferenceWrite                    = { fg = hue_6_2, style = 'reverse' },
      TSLiteral            = 'String',
      TSMethod             = 'Function',
      TSNamespace          = 'Include',
-     -- TSNone
+     TSNone               = 'Normal',
      TSMath               = 'Special',
      TSNote               = 'SpecialComment',
      TSNumber             = 'Number',
